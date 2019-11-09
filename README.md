@@ -15,11 +15,15 @@
 #### Quick Start(쉬운 시작)
 
 #### 시연(Practice Site)
-> ##### 1. 
+> ##### 1. 191109 JasperJavaSwingVirtualDesktop, Last Modified 2019-11-09, Accessed by 2019-11-09, https://youtu.be/9wNWpLUwqgg
+
 
 #### 참고자료(Reference)
 > ##### 1. Apache Commons – Apache Commons, Last Modified 2019-09-11, Accessed by 2019-11-09, http://commons.apache.org/
 > ##### 2. Overview (Apache Commmons Codec 1.13 API, Last Modified , Accessed by 2019-11-09, http://commons.apache.org/proper/commons-codec/archives/1.13/apidocs/index.html
 > ##### 3. 고급 암호화 표준 - 위키백과, 우리 모두의 백과사전, Last Modified 2019-11-07, Accessed by 2019-11-09, https://ko.wikipedia.org/wiki/%EA%B3%A0%EA%B8%89_%EC%95%94%ED%98%B8%ED%99%94_%ED%91%9C%EC%A4%80
 > ##### 4. AES 암호화 JAVA PHP 연동하기 – 무늬만 개발자, Last Modified 2019-05-24, Accessed by 2019-11-09, https://blog.fakecoding.com/2019/05/24/aes-%EC%95%94%ED%98%B8%ED%99%94-java-php-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0/
-> ##### 5. 
+> ##### 5. Base64 (Java SE 13 & JDK 13 ), Last Modified , Accessed by 2019-11-09, https://docs.oracle.com/en/java/javase/13/docs/api/java.base/java/util/Base64.html
+> ##### 6. Java HTTP Client - Examples and Recipes, Last Modified, Accessed by 2019-11-09, https://openjdk.java.net/groups/net/httpclient/recipes.html
+> ##### 7. [Java] HttpURLConnection 클래스 - URL 요청후 응답받기 ( GET방식, POST방식 ) : 네이버 블로그, Last Modified 2015-11-28, Accessed by 2019-11-09, http://blog.naver.com/PostView.nhn?blogId=javaking75&logNo=220552685641&parentCategoryNo=&categoryNo=62&viewDate=&isShowPopularPosts=true&from=search
+> ##### 8. URLConnection (Java SE 13 & JDK 13 ), Last Modified , Accessed by 2019-11-09, https://docs.oracle.com/en/java/javase/13/docs/api/java.base/java/net/URLConnection.html
